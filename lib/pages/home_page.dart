@@ -226,7 +226,7 @@ class HomePage extends StatelessWidget {
                           ),
                           decoration: InputDecoration(
                             prefixIcon: Icon(Icons.search),
-                            hintText: 'Search Food',
+                            hintText: 'Search Food ?',
                             contentPadding: EdgeInsets.all(15),
                             border: InputBorder.none,
                           ),
